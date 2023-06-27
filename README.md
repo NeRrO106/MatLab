@@ -1,2 +1,2 @@
-# MathLab
- Here i will upload my MathLab projects
+# MatLab
+ Here i will upload my MatLab projects
